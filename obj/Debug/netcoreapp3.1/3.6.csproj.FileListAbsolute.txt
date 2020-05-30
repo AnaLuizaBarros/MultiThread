@@ -1,0 +1,11 @@
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.exe
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.deps.json
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.runtimeconfig.json
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.runtimeconfig.dev.json
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.dll
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\bin\Debug\netcoreapp3.1\3.6.pdb
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\obj\Debug\netcoreapp3.1\3.6.csprojAssemblyReference.cache
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\obj\Debug\netcoreapp3.1\3.6.AssemblyInfoInputs.cache
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\obj\Debug\netcoreapp3.1\3.6.AssemblyInfo.cs
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\obj\Debug\netcoreapp3.1\3.6.dll
+C:\Users\ASTRA\Desktop\Astro Boy 2020\JAVALI\CSHARPAO\3.6\obj\Debug\netcoreapp3.1\3.6.pdb
