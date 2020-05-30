@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 namespace _3._6
 {
@@ -20,18 +20,19 @@ namespace _3._6
         }
         static public void Fibonacci(object n) {
 
-            double n1 = 0, n2 = 1;
+            double n1 = 0, n2 = 1, n3=0;
             Console.WriteLine("\n Fibonacci");
             Console.Write( "\n " + n1);  
             for (int i = 2; i < int.Parse(n.ToString()); ++i) 
             {
-                double n3 = n1 + n2;
+                n3 = n1 + n2;
                 Console.WriteLine("\n Fibonacci");
                 Console.Write("\n " + n3 );
-                fibo += n3;
                 n1 = n2;
-                n2 = n3;           
+                n2 = n3;    
+                
             }
+            fibo = n3;
             Console.Write("\n Fibonnaci e de: " + fibo +"\n");
         }
         static void Main()
@@ -51,3 +52,4 @@ namespace _3._6
        
     }
 }
+
