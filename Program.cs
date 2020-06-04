@@ -4,6 +4,20 @@ namespace _3._6
 {
     class Program
     {
+          /*
+        Integrantes: 
+        Alex Barros Vasconcelos - 663877
+        Ana Luiza Gonçalves Lourenço Barros - 650193
+        Daniel de Pinho Matos - 287404
+        Douglas Barbosa da Silva - 539301   
+        Lucas Gomes Oliveira - 667357
+        Lucas Alves Costa de Souza Araujo - 641119
+        Matheus Vinícius Nascimento - 685670
+        Patryck Kenny Pereira de Paiva - 645684
+        Victor Henrique de Souza Oliveira 643287
+        Vinicius de Castro - 643297
+        Wernen Rodrigues - 597704 
+        */
         static int x;
         static double fibo = 1;
         static double fat = 1;
@@ -37,6 +51,18 @@ namespace _3._6
         }
         static void Main()
         {
+            Console.Write(" Integrantes:  \n"+
+                         " Alex Barros Vasconcelos - 663877  \n"+
+                         " Ana Luiza Gonçalves Lourenço Barros - 650193  \n"+
+                         " Daniel de Pinho Matos - 287404  \n"+
+                         " Douglas Barbosa da Silva - 539301  \n"+
+                         " Lucas Gomes Oliveira - 667357  \n"+
+                         " Lucas Alves Costa de Souza Araujo - 641119  \n"+
+                         " Matheus Vinícius Nascimento - 685670  \n"+
+                         " Patryck Kenny Pereira de Paiva - 645684  \n"+
+                         " Victor Henrique de Souza Oliveira 643287  \n"+
+                         " Vinicius de Castro - 643297  \n"+
+                         " Wernen Rodrigues - 597704 \n");
             Console.WriteLine("\n Programa de multithread " +
                 "\n Digite um numero para o programa calcular o fatorial e" +
                 "calcular o valor do enésimo termo da sequência de fibonacci \n");
